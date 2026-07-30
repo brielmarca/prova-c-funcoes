@@ -38,4 +38,8 @@ Use the equivalent command for the other exercise files.
 
 ## Status
 
-Completed educational exercise set.
+Completed educational exercise set. This repository and its documentation may continue receiving improvements and updates.
+
+## Portfolio
+
+Explore more of my work: [Gabriel Marca — Portfolio](https://brielmarca-portfolio.pages.dev)
